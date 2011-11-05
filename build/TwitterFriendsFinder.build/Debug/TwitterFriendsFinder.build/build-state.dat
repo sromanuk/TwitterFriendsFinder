@@ -1,0 +1,534 @@
+TTwitterFriendsFinder
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Info.plist TwitterFriendsFinder/TwitterFriendsFinder-Info.plist
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/main.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TFFAppDelegate.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/base64.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/HMAC_SHA1.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/oauthlib.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/SHA1.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/twitcurl.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/urlencode.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E98C8FB00000000000000EE
+t1318635771
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E7AD7020000000000002470
+t1316673282
+s9328
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/include/curl/curl.h
+c000000004DDD55EA00000000000137F6
+t1306351082
+s79862
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/include/memory.h
+c000000004E360D4B0000000000000765
+t1312165195
+s1893
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c000000004E360D4E0000000000004763
+t1312165198
+s18275
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c000000004E360D4E00000000000030A7
+t1312165198
+s12455
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c000000004E360D4E0000000000001A3A
+t1312165198
+s6714
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c000000004E360D4E000000000000178E
+t1312165198
+s6030
+
+N/Developer/SDKs/MacOSX10.7.sdk/usr/lib/libcurl.dylib
+c000000004E7AD709000000000000C7D0
+t1316673289
+s51152
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/CommonDefines.h
+c000000004EB5565600000000000003D1
+t1320506966
+s977
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks/NuMongoDB.framework/NuMongoDB
+c000000004EB546ED000000000001D4D4
+t1320503021
+s120020
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.h
+c000000004EB530A80000000000000129
+t1320497320
+s297
+i<Cocoa/Cocoa.h>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m
+c000000004EB530A80000000000000180
+t1320497320
+s384
+i"TFFAppDelegate.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch
+c000000004EB5567300000000000000C6
+t1320506995
+s198
+i<Cocoa/Cocoa.h>
+i"CommonDefines.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.h
+c000000004EB55D63000000000000015A
+t1320508771
+s346
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.m
+c000000004EB556D20000000000000103
+t1320507090
+s259
+i"TwitterInformationResaiver.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm
+c000000004EB55D5F00000000000011AE
+t1320508767
+s4526
+i"TwitterInformationResaiver.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/Credits.rtf
+c000000004EB530A800000000000001B4
+t1320497320
+s436
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/InfoPlist.strings
+c000000004EB530A8000000000000002D
+t1320497320
+s45
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/MainMenu.xib
+c000000004EB530A80000000000032E5C
+t1320497320
+s208476
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m
+c000000004EB530A8000000000000010B
+t1320497320
+s267
+i<Cocoa/Cocoa.h>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp
+c000000004EB54CB5000000000000063B
+t1320504501
+s1595
+i"HMAC_SHA1.h"
+i<iostream>
+i<memory>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.h
+c000000004EB54CAA000000000000042E
+t1320504490
+s1070
+i"SHA1.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp
+c000000004EB554140000000000001DAB
+t1320506388
+s7595
+i"SHA1.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.h
+c000000004EB54CAA0000000000000ED1
+t1320504490
+s3793
+i<memory.h>
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp
+c000000004EB5542A0000000000000F17
+t1320506410
+s3863
+i"base64.h"
+i<iostream>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.h
+c000000004EB54CAA000000000000008A
+t1320504490
+s138
+i<string>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp
+c000000004EB553F70000000000004547
+t1320506359
+s17735
+i"oauthlib.h"
+i"HMAC_SHA1.h"
+i"base64.h"
+i"urlencode.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.h
+c000000004EB54CAA000000000000147B
+t1320504490
+s5243
+i"time.h"
+i<cstdlib>
+i<sstream>
+i<iostream>
+i<fstream>
+i<string>
+i<list>
+i<map>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp
+c000000004EB54CB5000000000000D585
+t1320504501
+s54661
+i<memory.h>
+i"twitcurl.h"
+i"urlencode.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.h
+c000000004EB54CAA0000000000002AEC
+t1320504490
+s10988
+i<string>
+i<sstream>
+i<cstring>
+i"oauthlib.h"
+i"curl/curl.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp
+c000000004EB554200000000000000392
+t1320506400
+s914
+i"urlencode.h"
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.h
+c000000004EB54CAA00000000000000CC
+t1320504490
+s204
+i<iostream>
+i<string>
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app
+t1320507000
+s102
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Info.plist
+t1320506491
+s1454
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/MacOS/TwitterFriendsFinder
+t1320507000
+s236140
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/PkgInfo
+t1320506491
+s8
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/Credits.rtf
+t1320506517
+s436
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1320506517
+s92
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/MainMenu.nib
+t1320506518
+s26737
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/HMAC_SHA1.o
+t1320506998
+s27884
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/SHA1.o
+t1320506999
+s25172
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TFFAppDelegate.o
+t1320507000
+s19524
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterFriendsFinder.LinkFileList
+c000000004EB55D65000000000000059E
+t1320508773
+s1438
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o
+t2
+s0
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/base64.o
+t1320506999
+s30760
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/main.o
+t1320507000
+s2344
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/oauthlib.o
+t1320507000
+s177736
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/twitcurl.o
+t1320507000
+s189164
+
+N/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/urlencode.o
+t1320507000
+s28248
+
+NTwitterFriendsFinder/TwitterFriendsFinder-Info.plist
+c000000004EB530A80000000000000452
+t1320497320
+s1106
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.m
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp
+r0
+
+CBuild AST from /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies75b016e59465b441^b5c628e59465b441^---0#1#0#--18"Check dependencies36"16AAF39B-EC72-4DD1-B4F4-746648C1E706-
+
+CCompileXIB /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/MainMenu.xib
+s342199317.306167
+e342199318.157190
+r1
+xCompileXIB
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/MainMenu.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/MainMenu.xibefe54e158c65b441^712028168c65b441^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/MainMenu.xib0000000000000000^560"CompileXIB TwitterFriendsFinder/en.lproj/MainMenu.xib    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/MainMenu.nib /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.7.sdk36"FD4B4674-191C-4AE2-A58E-ADFC50AE164A-
+
+CCopyStringsFile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/InfoPlist.strings TwitterFriendsFinder/en.lproj/InfoPlist.strings
+s342199317.306131
+e342199317.322154
+r1
+xCopyStringsFile
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/InfoPlist.strings
+xTwitterFriendsFinder/en.lproj/InfoPlist.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy TwitterFriendsFinder/en.lproj/InfoPlist.strings07784e158c65b441^9a7952158c65b441^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/InfoPlist.strings0000000000000000^478"CopyStringsFile build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/InfoPlist.strings TwitterFriendsFinder/en.lproj/InfoPlist.strings    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj -- TwitterFriendsFinder/en.lproj/InfoPlist.strings36"358CCF6B-E3D0-459B-B144-6A7A7214DC27-
+
+CCpResource TwitterFriendsFinder/en.lproj/Credits.rtf build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/Credits.rtf
+s342199317.306163
+e342199317.320138
+r1
+xCpResource
+xTwitterFriendsFinder/en.lproj/Credits.rtf
+xbuild/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/Credits.rtff7774e158c65b441^17f551158c65b441^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/Credits.rtf00f4805adeffdf42^533"CpResource TwitterFriendsFinder/en.lproj/Credits.rtf build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/en.lproj/Credits.rtf /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Resources/en.lproj36"E0C5CFE8-49DB-4A14-B4D0-F39112F74DB1-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/HMAC_SHA1.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342199798.148612
+e342199799.010811
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/HMAC_SHA1.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87201] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87201] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cppc1c728f68d65b441^61c402f78d65b441^-200"distcc[87201] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87201] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp0000000000000000^2893"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/HMAC_SHA1.o TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/HMAC_SHA1.cpp -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/HMAC_SHA1.o36"27B9BF5C-621A-4357-9A57-5B93E96675BC-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/SHA1.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342199799.076748
+e342199799.360697
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/SHA1.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87223] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87223] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cppfcc514f78d65b441^b8595cf78d65b441^-200"distcc[87223] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87223] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp0000000000000000^2873"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/SHA1.o TwitterFriendsFinder/twittercurl/SHA1.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/SHA1.cpp -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/SHA1.o36"813A4316-630A-44D6-BF9C-98A242C04927-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TFFAppDelegate.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342199798.148423
+e342199800.129954
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TFFAppDelegate.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87199] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87199] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.mbe3128f68d65b441^564421f88d65b441^-200"distcc[87199] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87199] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m0000000000000000^3039"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TFFAppDelegate.o TwitterFriendsFinder/TFFAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TFFAppDelegate.m -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TFFAppDelegate.o36"F02D011E-417E-4E55-96D0-4B0F7EE01EC6-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342201573.196483
+e342201576.461091
+r0
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm
+xnormal
+xx86_64
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87446] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87446] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+odistcc[87446] ERROR: compile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm on Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp failed
+odistcc[87446] (dcc_build_somewhere) Warning: remote compilation of '/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm' failed, retrying locally
+odistcc[87446] Warning: failed to distribute /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm to Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp, running locally instead
+o/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm:14:16: error: ivars may not be placed in categories [3]
+o     twitCurl * m_twitterObj;
+o                ^
+o1 error generated.
+odistcc[87446] ERROR: compile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm on localhost failed
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm828e32e59465b441^a0fc75e89465b441^-1217"distcc[87446] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87446] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locallydistcc[87446] ERROR: compile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm on Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp faileddistcc[87446] (dcc_build_somewhere) Warning: remote compilation of '/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm' failed, retrying locallydistcc[87446] Warning: failed to distribute /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm to Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp, running locally instead/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm:14:16: error: ivars may not be placed in categories [3]     twitCurl * m_twitterObj;                ^1 error generated.distcc[87446] ERROR: compile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm on localhost failed1(21%IDEActivityLogMessage2@37"Ivars may not be placed in categories-342201576#825#166#-2#-23%DVTTextDocumentLocation3@125"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm0000000000000000^13#15#13#15#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@125"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm0000000000000000^3142"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o TwitterFriendsFinder/TwitterInformationResaiver.mm normal x86_64 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterInformationResaiver.mm -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterInformationResaiver.o36"6F14F7A1-8BC4-48AE-A49C-B2D8241AFA1E-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/base64.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342199798.148563
+e342199799.067053
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/base64.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87195] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87195] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cppd72f28f68d65b441^412a11f78d65b441^-200"distcc[87195] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87195] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp0000000000000000^2881"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/base64.o TwitterFriendsFinder/twittercurl/base64.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/base64.cpp -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/base64.o36"F533E50C-9C27-4D90-86A2-2BB16F311C47-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/main.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s342199798.148411
+e342199800.156343
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/main.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87200] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87200] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m293c28f68d65b441^ce1628f88d65b441^-200"distcc[87200] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87200] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m0000000000000000^2999"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/main.o TwitterFriendsFinder/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/main.m -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/main.o36"39F0996A-9D84-4433-8610-3B09E0B96B55-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/oauthlib.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342199799.025644
+e342199800.310457
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/oauthlib.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87218] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87218] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp91d006f78d65b441^0f7d4ff88d65b441^-200"distcc[87218] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87218] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp0000000000000000^2889"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/oauthlib.o TwitterFriendsFinder/twittercurl/oauthlib.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/oauthlib.cpp -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/oauthlib.o36"913B35C5-FE25-4C2F-93BF-997330BB2F70-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/twitcurl.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342199799.362075
+e342199800.419425
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/twitcurl.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87235] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87235] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cppacfe5cf78d65b441^07606bf88d65b441^-200"distcc[87235] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87235] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp0000000000000000^2889"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/twitcurl.o TwitterFriendsFinder/twittercurl/twitcurl.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/twitcurl.cpp -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/twitcurl.o36"D3D99140-2C0C-4CB0-82A4-36DD04377C1F-
+
+CDistributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/urlencode.o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s342199800.131331
+e342199800.560217
+r1
+xDistributed-CompileC
+xbuild/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/urlencode.o
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[87247] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?
+odistcc[87247] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Distribute compilation of /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp12db21f88d65b441^5a7f8ff88d65b441^-200"distcc[87247] Warning: INCLUDE_SERVER_PORT not set - did you forget to run under 'pump'?distcc[87247] (dcc_build_somewhere) Warning: failed to get includes from include server, preprocessing locally-0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp0000000000000000^2893"Distributed-CompileC build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/urlencode.o TwitterFriendsFinder/twittercurl/urlencode.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv DISTCC_COMPILER "Apple clang version 3.0 (tags/Apple/clang-211.10.1) (based on LLVM 3.0svn)"    setenv DISTCC_DIR /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/distcc.tmp    setenv DISTCC_HOSTS "--randomize Slavik-Romanuks-MacBook-Pro.local./6,lzo,cpp"    setenv DISTCC_SYSTEM "10.7.2 (11C74, x86_64)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -Wc++0x-extensions -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-generated-files.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-own-target-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-all-target-headers.hmap -iquote /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/TwitterFriendsFinder-project-headers.hmap -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/include -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources/x86_64 -I/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/DerivedSources -fpch-preprocess -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -include /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Prefix.pch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/twittercurl/urlencode.cpp -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/urlencode.o36"8CBF7E5E-52C1-4A99-A0FE-13C615770653-
+
+CLd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/MacOS/TwitterFriendsFinder normal x86_64
+s342199800.573241
+e342199800.629330
+r1
+xLd
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/MacOS/TwitterFriendsFinder
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/MacOS/TwitterFriendsFinder24d692f88d65b441^d61ba1f88d65b441^---0#0#0#--929"Ld build/Debug/TwitterFriendsFinder.app/Contents/MacOS/TwitterFriendsFinder normal x86_64    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Developer/usr/bin/clang++ -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug -F/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/Frameworks -filelist /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/TwitterFriendsFinder.build/Debug/TwitterFriendsFinder.build/Objects-normal/x86_64/TwitterFriendsFinder.LinkFileList -mmacosx-version-min=10.7 -fobjc-arc -lcurl -framework NuMongoDB -framework Cocoa -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/MacOS/TwitterFriendsFinder36"CF52CA96-FF72-4076-B43E-2C11DE3D5356-
+
+CProcessInfoPlistFile /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Info.plist TwitterFriendsFinder/TwitterFriendsFinder-Info.plist
+s342199291.734143
+e342199291.738338
+r1
+xProcessInfoPlistFile
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Info.plist
+xTwitterFriendsFinder/TwitterFriendsFinder-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Process TwitterFriendsFinder/TwitterFriendsFinder-Info.plist0000bcfb8b65b441^b803bdfb8b65b441^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/TwitterFriendsFinder/TwitterFriendsFinder-Info.plist0000000000000000^561"ProcessInfoPlistFile build/Debug/TwitterFriendsFinder.app/Contents/Info.plist TwitterFriendsFinder/TwitterFriendsFinder-Info.plist    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    builtin-infoPlistUtility TwitterFriendsFinder/TwitterFriendsFinder-Info.plist -genpkginfo /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app/Contents/Info.plist36"2B55D601-96C2-431B-8EED-2536E444AF1D-
+
+CTouch /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app
+s342199800.660071
+e342199800.671770
+r1
+xTouch
+x/Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app620fa9f88d65b441^33fcabf88d65b441^---0#0#0#--227"Touch build/Debug/TwitterFriendsFinder.app    cd /Users/slavik/code/opensource/douhack/TwitterFriendsFinder    /usr/bin/touch -c /Users/slavik/code/opensource/douhack/TwitterFriendsFinder/build/Debug/TwitterFriendsFinder.app36"9E743A03-27FB-42DC-8FA6-E294F7A282BC-
+
